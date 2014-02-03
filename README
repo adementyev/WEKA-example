@@ -1,0 +1,6 @@
+Simple example of using WEKA for training and classification in Java.
+supervised SVM algorithm was used here. 
+WEKA version 3-7-10 was used.  
+Weka.jar needs to be added to the referenced libraries 
+
+
